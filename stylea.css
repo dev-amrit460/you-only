@@ -1,0 +1,46 @@
+body{
+    background-image: url('giphy.gif');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow-x: hidden;
+    background-attachment: fixed;
+}
+#para{
+    position:flex;
+    border: 1px solid #ccc;
+    font-size: x-large;
+    font-family:'Patrick Hand', cursive;
+    font-weight: 500;
+    text-align: center;
+    color:lightgoldenrodyellow;
+    text-shadow: 1px 1px black;
+    padding: 10px;
+    border: solid 2px white;
+    border-radius: 5px;
+    margin: 30px;
+    margin-top: 300px;
+}
+#button{
+    width: 125px;
+    height: 125px;
+    margin: 30px;
+    margin-top: 40px;
+}
+#heart{
+    width: 150px;
+    height: 200px;
+    float:right;
+    margin-top: 20px;
+}
+#heart1{
+    width: 150px;
+    height: 200px;
+    float: left;
+    margin-left: 15px;
+    margin-top: 20px;
+}
+#google-login-button{
+    margin-top: 25px;
+}

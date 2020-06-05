@@ -1,0 +1,20 @@
+body{
+    background-image: url('iso.gif');
+    background-size: cover;
+    overflow-x: hidden;
+}
+#link{
+    margin-top:120px;
+}
+a{
+    margin: 10px;
+}
+#tenor{
+    margin-top: 50px;
+}
+#para1{
+    margin-top: 60px;
+    font-size: x-large;
+    color: white;
+    font-family: 'Indie Flower', cursive;
+}
